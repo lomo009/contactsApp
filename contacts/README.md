@@ -1,10 +1,17 @@
 ![](public/screenshot1.png?raw=true "ContactsApp Starting Page")
+________________
 ^^ Start Page ^^
 
 ![](public/screenshot2.png?raw=true "ContactsApp Create Page")
+____________________
 ^^ Create Contact ^^
 
+![](public/screenshot4.png?raw=true "ContactsApp Search")
+_____________________
+^^ Contact Added ^^
+
 ![](public/screenshot3.png?raw=true "ContactsApp Search")
+_____________________
 ^^ Search Contacts ^^
 
 
